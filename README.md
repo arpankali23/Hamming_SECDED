@@ -1,1 +1,1 @@
-# Hamming_SECDED
+# Hamming Single Error Correction Double Error Detection
